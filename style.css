@@ -37,7 +37,7 @@ body {
     align-content: center;
     flex-direction: column;
     text-align: center;
-    gap: 5rem;
+    gap: 3rem;
 }
 
 .container_info {
@@ -52,12 +52,12 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 200;
 }
 
 h2 {
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 h3 {
@@ -73,7 +73,7 @@ h3 {
     align-content: center;
     flex-direction: row;
     text-align: left;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 .card {
@@ -86,7 +86,7 @@ h3 {
 
 .card img {
     float: right;
-    margin-top: 4rem;
+    margin-top: 3rem;
 }
 
 .container_cards_left {
